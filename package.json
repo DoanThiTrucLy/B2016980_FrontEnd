@@ -1,0 +1,11 @@
+{
+  "name": "ct449_front_end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "b2016980",
+  "license": "ISC"
+}
